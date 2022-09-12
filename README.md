@@ -68,6 +68,21 @@ Generating a New Application Key
 ## Requirements
 
 	PHP = ^7.4
+
+## USER credentials
+Admin
+u:- admin@admin.com 
+p:- 12345678
+
+USER:-
+u:- user1@admin.com
+p:- 12345678
+
+u:- user2@admin.com
+p:- 12345678
+
+u:- user3@admin.com
+p:- 12345678
   
 
 
