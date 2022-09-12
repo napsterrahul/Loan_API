@@ -97,4 +97,7 @@ p:- 12345678
 3. base_url + repayment/ (POST) for User Schedule Payment of Loan
 
 ## FOr Extra details you can check postman collection which i sent on mail.
+FOr parameters you can also check - 
+
+https://stoplight.io/api/v1/projects/metro-services/loan-api/nodes/Loan-APi.yaml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwczovL3N0b3BsaWdodC5pby9qd3QvY2xhaW1zIjp7IngtaGFzdXJhLWRlZmF1bHQtcm9sZSI6IndvcmtzcGFjZV91c2VyIiwieC1oYXN1cmEtYWxsb3dlZC1yb2xlcyI6WyJ3b3Jrc3BhY2VfdXNlciJdLCJ4LWhhc3VyYS11c2VyLWlkIjoiMTgyOTk2IiwieC1oYXN1cmEtdXNlci1pcC1hZGRyZXNzIjoiMTMwLjIxMS4wLjY2IiwieC1oYXN1cmEtd29ya3NwYWNlLWlkIjoiMTA2NTYxIn0sImlhdCI6MTY2Mjk4OTY5NiwiZXhwIjoxNjYyOTkwNTk2LCJpc3MiOiJzdG9wbGlnaHQiLCJzdWIiOiIvdXNlcnMvMTgyOTk2In0.2xrs2fWXknojtAsxUSNckDB029tew8Sw4uG7FBUpoV4
 
