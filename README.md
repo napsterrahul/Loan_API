@@ -87,14 +87,14 @@ p:- 12345678
 
 
 ## API list
-<!-- Example base url = http://localhost:8080/Loan/public/ -->
+<!-- Example base_url = http://localhost:8080/Loan/public/ -->
 
-1. url + api/login for login get APi_key and use for all other api for authentication
-2. url + loan/ (GET) for user all loans
-3. url + loan/ (POST) for create new Loan
-3. url + approve/ (POST) for Admin Approve the Loan
-3. url + loandetails/ (GET) for Admin/User Details of the Loan
-3. url + repayment/ (POST) for User Schedule Payment of Loan
+1. base_url + api/login (GET) for login get APi_key and use for all other api for authentication
+2. base_url + loan/ (GET) for user all loans
+3. base_url + loan/ (POST) for create new Loan
+3. base_url + approve/ (POST) for Admin Approve the Loan
+3. base_url + loandetails/ (GET) for Admin/User Details of the Loan
+3. base_url + repayment/ (POST) for User Schedule Payment of Loan
 
 
 
