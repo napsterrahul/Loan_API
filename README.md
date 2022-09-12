@@ -96,5 +96,5 @@ p:- 12345678
 3. base_url + loandetails/ (GET) for Admin/User Details of the Loan
 3. base_url + repayment/ (POST) for User Schedule Payment of Loan
 
-
+## FOr Extra details you can check postman collection which i sent on mail.
 
